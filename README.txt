@@ -1,0 +1,1 @@
+Week 5 comprehensive data science project. Dataset: scikit-learn diabetes progression dataset. Model: Ridge regression. Split: 80% train, 20% test, random_state=42. Metrics: MAE, RMSE, R-squared. Install: pip install pandas numpy matplotlib scikit-learn. Run: python analysis.py. Educational example only; not for clinical decisions.
